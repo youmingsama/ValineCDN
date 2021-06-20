@@ -1,0 +1,8 @@
+{
+  name: "明日方舟",
+  folder: "https://cdn.jsdelivr.net/gh/youmingsama/ValineCDN@master/Arknights",
+  prefix: "",
+  type: "jpg",
+  icon: "five_01",
+  items: ["five_01"]
+}
